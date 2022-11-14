@@ -1,9 +1,10 @@
 .flex-container {
     display: flex;
-    margin: 10px;
+    margin: auto;
     text-align: center;
     flex-wrap: wrap;
-
+    width: 90%;
+    max-width: 1140px;
 }
 
 .tile {
